@@ -53,7 +53,7 @@ The following software has to be installed in order for you to be able to adjust
 
 1. [npm v14.x](https://github.com/nodesource/distributions)
 2. [php 7.4](https://www.php.net/)
-3. [phpcs](https://github.com/squizlabs/PHP_CodeSniffer)
+3. [phpcs](https://github.com/PHPCSStandards/PHP_CodeSniffer)
 4. [composer](https://getcomposer.org/)
 5. [vscode](https://code.visualstudio.com/) (optional)
 
